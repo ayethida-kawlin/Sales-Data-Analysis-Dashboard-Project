@@ -41,7 +41,7 @@ The dashboard converts raw transactional data into meaningful insights through i
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
